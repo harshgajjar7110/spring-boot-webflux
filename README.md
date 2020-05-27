@@ -1,4 +1,4 @@
-# spring-boot-webflux
+# Spring Boot Webflux
 Spring Boot Webflux Reactive Mongo
 This is a sample application that shows how to build a web application using
 
